@@ -73,3 +73,9 @@ React, TailwindCSS, Bootstrap
 Git & GitHub
 Figma (for UI Design)
 
+🤝 Connect With Me
+📧 Email: joseph.okore@gmail.com
+📱 WhatsApp: +254-728-107-855
+
+
+<p align="center"> Let's build technology that makes a difference. 🌍 </p> ```
